@@ -9,11 +9,11 @@
 
 
 - 🌱 I’m currently learning DSA
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Java**
 
 - 📫 You can reach me at **abhiruproyofficial@gmail.com**
 
-- ⚡ Fun fact **I am good at PUBG Mobile.**
+- ⚡ Fun fact **I am good at Problem Solving**
 
 ## 🚀 Languages and Tools:
 
