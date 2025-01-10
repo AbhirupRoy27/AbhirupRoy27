@@ -1,17 +1,27 @@
 <a href="#"><img width="100%" height="auto" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1631181265858/pMtpbgpj-.jpeg" /></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Your Name]</h1>
-<h3 align="center">A Passionate Developer from [Your Country].</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhirup Roy</h1>
+<h3 align="center">A Passionate Developer from India.</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" />
+</p>
+
+<!-- Add this animated typing effect -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
+  </a>
+</p>
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I'm currently learning **[What you're learning]**
+- 🌱 I'm currently learning **AI and ML**
 
-- 💬 Ask me about **[Your expertise]**
+- 💬 Ask me about **Web Techology, AI and ML**
 
-- 📫 You can reach me at **[your.email@example.com]**
+- 📫 You can reach me at **rabhirup605@gmail.com**
 
-- ⚡ Fun fact **[Something interesting about you]**
 
 ## 🚀 Languages and Tools:
 
@@ -40,7 +50,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href="[your-linkedin-url]"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="(https://www.linkedin.com/in/abhirup-roy-lpu/)"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="[your-twitter-url]"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href="[your-instagram-url]"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
