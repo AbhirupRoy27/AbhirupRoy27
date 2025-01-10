@@ -39,11 +39,11 @@
 
 ## 📊 My Github Stats
 
-<br/>
-<a href="https://github.com/[your-github-username]/github-readme-stats"><img alt="Your Name's Github Stats" src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/[your-github-username]/github-readme-stats"><img alt="Your Name's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <br/>
+    <a href="https://github.com/vipulraj01/github-readme-stats"><img alt="Vipul Raj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vipulraj01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/vipulraj01/github-readme-stats"><img alt="Vipul Raj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipulraj01&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
