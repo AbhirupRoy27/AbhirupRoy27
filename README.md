@@ -68,11 +68,6 @@
 <a href="[your-instagram-url]"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=[your-github-username]">
-</a>
-<a href="https://github.com/[your-github-username]?tab=followers"><img src="https://img.shields.io/github/followers/[your-github-username]?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
