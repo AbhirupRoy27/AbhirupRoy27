@@ -1,30 +1,20 @@
-<h1 align="center">Hi 👋, I'm Abhirup Roy</h1>
-<h3 align="center">A passionate developer from India</h3>
+<a href="#"><img width="100%" height="auto" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1631181265858/pMtpbgpj-.jpeg" /></a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" />
-</p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Your Name]</h1>
+<h3 align="center">A Passionate Developer from [Your Country].</h3>
 
-<!-- Add this animated typing effect -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
-  </a>
-</p>
+## 🙋‍♂️ About Me
 
-<!-- Add your current work/learning -->
-- 🔭 I'm currently working on **Online Ticket Booking System**
+- 🌱 I'm currently learning **[What you're learning]**
 
-- 🌱 I'm currently learning **Adding AI and ML to Web Application**
+- 💬 Ask me about **[Your expertise]**
 
-- 👯 I'm looking to collaborate on **AI and ML**
+- 📫 You can reach me at **[your.email@example.com]**
 
-- 💬 Ask me about **Web Technology, AI and ML**
+- ⚡ Fun fact **[Something interesting about you]**
 
-- 📫 How to reach me **rabhirup605@gmail.com**
+## 🚀 Languages and Tools:
 
-<!-- Add your tech stack -->
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
@@ -35,34 +25,32 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
 </p>
 
-<!-- Add GitHub stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="your-github-username" />
-</p>
+<br/>
 
-<!-- Add GitHub streak stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="your-github-username" />
-</p>
+## 📊 My Github Stats
 
-<!-- Add GitHub languages card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="your-github-username" />
-</p>
+<br/>
+<a href="https://github.com/[your-github-username]/github-readme-stats"><img alt="Your Name's Github Stats" src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/[your-github-username]/github-readme-stats"><img alt="Your Name's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<!-- Add contribution graph -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=your-github-username&theme=react-dark" alt="Contribution Graph" />
-</p>
+<br/>
+<br/>
 
-<!-- Add social media links -->
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
-<a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/abhirup-roy-lpu/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhirup Roy" height="30" width="40" /></a>
-<a href="[https://twitter.com/your-twitter](https://x.com/abhiruproy27?s=21)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@AbhirupRoy27" height="30" width="40" /></a>
+<a href="[your-linkedin-url]"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="[your-twitter-url]"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href="[your-instagram-url]"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
-<!-- Add a cool footer -->
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=[your-github-username]">
+</a>
+<a href="https://github.com/[your-github-username]?tab=followers"><img src="https://img.shields.io/github/followers/[your-github-username]?label=Followers&style=social" alt="GitHub Badge"></a>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
