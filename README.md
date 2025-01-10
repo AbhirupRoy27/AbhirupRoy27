@@ -37,12 +37,25 @@
 
 <br/>
 
-## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/vipulraj01/github-readme-stats"><img alt="Vipul Raj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vipulraj01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/vipulraj01/github-readme-stats"><img alt="Vipul Raj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipulraj01&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+  ## 📊 My Github Stats
+
+<br/>
+<a href="https://github.com/AbhirupRoy27/github-readme-stats"><img alt="Abhirup Roy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbhirupRoy27&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/AbhirupRoy27/github-readme-stats"><img alt="Abhirup Roy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhirupRoy27&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+
+## 📈 Contribution Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhirupRoy27&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 📊 GitHub Streak Stats
+<p align="center">
+    <a href="https://github.com/AbhirupRoy27/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="your streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhirupRoy27&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+    </a>
+</p>
+
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
