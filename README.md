@@ -14,9 +14,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I'm currently learning **AI and ML**
+<!-- 🌱 I'm currently learning **AI and ML** -->
 
-- 💬 Ask me about **Web Techology, AI and ML**
+- 💬 Ask me about **Web Techology**
 
 - 📫 You can reach me at **rabhirup605@gmail.com**
 
