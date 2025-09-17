@@ -39,7 +39,7 @@
 <div align="center">
   
 <br/>
-<a href="https://github.com/AbhirupRoy27/github-readme-stats"><img alt="Abhirup Roy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbhirupRoy27&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
 <a href="https://github.com/AbhirupRoy27/github-readme-stats"><img alt="Abhirup Roy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhirupRoy27&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
   
@@ -67,3 +67,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+
