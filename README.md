@@ -1,43 +1,17 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhirup Roy</h1>
-<h3 align="center">A Passionate Developer from India.</h3>
+<!-- <h3 align="center">A Passionate Developer from India.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" />
-</p>
+</p> -->
+<br />
 
-<!-- Add this animated typing effect -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
-  </a>
-</p>
+## 📈 Contribution Graph
 
-## 🙋‍♂️ About Me
-
-<!-- 🌱 I'm currently learning **AI and ML** -->
-
-- 💬 Ask me about **Web Techology**
-
-- 📫 You can reach me at **rabhirup605@gmail.com**
-
-
-## 🚀 Languages and Tools:
-</br>
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-</p>
-</br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhirupRoy27&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   ## 📊 My Github Stats
 <div align="center">
-  
 <br/>
 
 <a href="https://github.com/AbhirupRoy27/github-readme-stats"><img alt="Abhirup Roy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhirupRoy27&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -45,26 +19,87 @@
   
 </div>
 
-## 📈 Contribution Graph
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhirupRoy27&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-
-## Connect with me:
+- ## Connect with me:
 <p align="left">
-<a href="(https://www.linkedin.com/in/abhirup-roy-lpu/)"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="[your-twitter-url]"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href="[your-instagram-url]"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="(https://www.linkedin.com/in/abhirup-roy-60ab95225/)"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="mailto:rabhirup605@gail.com"><img src="https://img.icons8.com/fluent/48/000000/mail.png"/></a>
+<a href="https://www.instagram.com/ig__abhirup/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
+- 📫 You can reach me at  <b>rabhirup605@gmail.com</b>
+
+
+## 🚀 Languages and Frameworks
+<section>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48"/>
+  </a>
+  <a href="https://reactrouter.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React Router (React logo placeholder)" width="48" height="48"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+  </a>
+</section>
+
+
+## Tool's I use:
+
+<section>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="48" height="48"/>
+  </a>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="48" height="48"/>
+  </a>
+  <a href="https://jestjs.io/" target="_blank">
+    <img src="https://svgrepo.com/show/353930/jest.svg" alt="Jest" width="48" height="48"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" alt="Firebase" width="48" height="48"/>
+  </a>
+  <a href="https://restfulapi.net/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/api.png" alt="REST API" width="48" height="48"/>
+  </a>
+   <a href="https://mui.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material UI" width="48" height="48"/>
+  </a>
+</section>
+
+</p>
+
+</br>
+
+## 🙋‍♂️ About Me
+
+- 💬 connect with me when you wnat to talk about **Web Techology**
+
+
+
+
+
+
 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+
 
