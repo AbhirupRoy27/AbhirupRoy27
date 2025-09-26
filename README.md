@@ -8,22 +8,16 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhirupRoy27&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  ## 📊 My Github Stats
+
+
 <div align="center">
-<br/>
-
-<a href="https://github.com/AbhirupRoy27/github-readme-stats"><img alt="Abhirup Roy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhirupRoy27&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
   
-</div>
+| Used Languages | Connect with Using |
+|---------------|----------------|
+| <a href="https://github.com/AbhirupRoy27/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhirupRoy27&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> | [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/abhirup-roy-60ab95225/)&nbsp;[![Email](https://img.icons8.com/fluent/48/000000/mail.png)](mailto:rabhirup605@gmail.com)&nbsp;[![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://www.instagram.com/ig__abhirup/)<br />
+📫 You can reach me at <b>rabhirup605@gmail.com</b> |
 
-- ## Connect with me:
-<p align="left">
-<a href="(https://www.linkedin.com/in/abhirup-roy-60ab95225/)"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="mailto:rabhirup605@gail.com"><img src="https://img.icons8.com/fluent/48/000000/mail.png"/></a>
-<a href="https://www.instagram.com/ig__abhirup/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
-- 📫 You can reach me at  <b>rabhirup605@gmail.com</b>
+</div>
 
 
 ## 🚀 Languages and Frameworks
@@ -99,6 +93,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+
 
 
 
