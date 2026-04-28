@@ -1,99 +1,74 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhirup Roy</h1>
-<!-- <h3 align="center">A Passionate Developer from India.</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" />
-</p> -->
-<br />
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhirupRoy27&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
 <div align="center">
-  
-| Used Languages | Connect with Using |
-|---------------|----------------|
-| <a href="https://github.com/AbhirupRoy27/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhirupRoy27&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> | [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/abhirup-roy-60ab95225/)&nbsp;[![Email](https://img.icons8.com/fluent/48/000000/mail.png)](mailto:rabhirup605@gmail.com)&nbsp;[![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://www.instagram.com/ig__abhirup/)<br />
-📫 You can reach me at <b>rabhirup605@gmail.com</b> |
+
+# Abhirup Roy
+
+**Full-Stack Developer · Web Technology Enthusiast**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhirup-roy-60ab95225/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rabhirup605@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ig__abhirup/)
 
 </div>
 
+---
 
-## 🚀 Languages and Frameworks
-<section>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48"/>
-  </a>
-  <a href="https://reactrouter.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React Router (React logo placeholder)" width="48" height="48"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-  </a>
-</section>
+## About
 
+I'm a full-stack developer from India with a focus on building clean, performant web applications. I enjoy working across the stack — from crafting responsive UIs to designing robust backend APIs.
 
-## Tool's I use:
+- 🔭 &nbsp;Currently building and shipping web projects
+- 💬 &nbsp;Reach me about **Web Technology**, JavaScript ecosystems, or full-stack architecture
+- 📫 &nbsp;**rabhirup605@gmail.com**
 
-<section>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="48" height="48"/>
-  </a>
-  <a href="https://vitejs.dev/" target="_blank">
-    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="48" height="48"/>
-  </a>
-  <a href="https://jestjs.io/" target="_blank">
-    <img src="https://svgrepo.com/show/353930/jest.svg" alt="Jest" width="48" height="48"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" alt="Firebase" width="48" height="48"/>
-  </a>
-  <a href="https://restfulapi.net/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/FFFFFF/api.png" alt="REST API" width="48" height="48"/>
-  </a>
-   <a href="https://mui.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material UI" width="48" height="48"/>
-  </a>
-</section>
+---
 
-</p>
+## Tech Stack
 
-</br>
+**Languages**
 
-## 🙋‍♂️ About Me
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-- 💬 connect with me when you wnat to talk about **Web Techology**
+**Frameworks & Libraries**
 
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=mui&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
 
+**Tools & Platforms**
 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat&logo=fastapi&logoColor=white)
 
+---
 
+## GitHub Stats
 
+<div align="center">
 
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AbhirupRoy27&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhirupRoy27&layout=compact&theme=github_dark&hide_border=true&langs_count=8&count_private=true" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+</div>
 
+<div align="center">
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhirupRoy27&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/AbhirupRoy27)
 
+</div>
 
+---
+
+<div align="center">
+  <sub>Open to collaborating on interesting web projects — feel free to reach out.</sub>
+</div>
